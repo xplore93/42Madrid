@@ -1,0 +1,24 @@
+[submodule "Libft"]
+	path = Libft
+	url = https://github.com/xplore93/Libft
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/xplore93/ft_printf
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/xplore93/get_next_line
+[submodule "ft_server"]
+	path = ft_server
+	url = https://github.com/xplore93/ft_server
+[submodule "ft_services"]
+	path = ft_services
+	url = https://github.com/xplore93/ft_services
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/xplore93/cub3d
+[submodule "42-piscine"]
+	path = 42-piscine
+	url = https://github.com/xplore93/42-piscine
+[submodule "libasm"]
+	path = libasm
+	url = https://github.com/xplore93/libasm
